@@ -1,5 +1,4 @@
 # Fracture-Detection-Without-Machine-Learning-My-Approach-
-Fracture Detection Without Machine Learning (My Approach) 
 # Forearm Fracture Detection – Custom Image Processing Approach
 
 This project is focused on **detecting forearm fractures in MRI images without using machine learning**.  
