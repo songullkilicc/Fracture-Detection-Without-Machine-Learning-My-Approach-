@@ -1,6 +1,15 @@
 # Fracture-Detection-Without-Machine-Learning-My-Approach-
 # Forearm Fracture Detection – Custom Image Processing Approach
 
+⚠️ Note: GitHub may not render .ipynb files correctly. The file is intact and can be opened after downloading in Jupyter Notebook or Google Colab. Alternatively, you can access it via Google Drive link
+.
+
+🔹 Türkçe
+
+⚠️ Dikkat: GitHub bazen .ipynb dosyalarını düzgün görüntülemeyebilir. Dosya sağlamdır ve indirildikten sonra Jupyter Notebook veya Google Colab ile açılabilir. Alternatif olarak Google Drive linki
+ üzerinden de erişebilirsiniz.
+
+ 
 This project is focused on **detecting forearm fractures in MRI images without using machine learning**.  
 Instead of relying on pre-trained models, I designed my own image processing pipeline and algorithm to segment the bone, suppress tissues, and locate fractures.
 
