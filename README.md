@@ -45,7 +45,8 @@ To finalize the detection, I designed a custom rule-based algorithm:
 - Harris points accumulated at:
   - The elbow,  
   - The wrist,  
-  - And at the fracture.  
+  - And at the fracture.
+    
 - I then developed a counting algorithm:
   - **White points were counted**, and if too many accumulated in one area → mark with a **red box**.  
   - At first, this highlighted elbow, wrist, and fracture regions.  
@@ -76,3 +77,5 @@ This project demonstrates that it is possible to **detect fractures in medical i
 It combines classical computer vision techniques with my own custom logic for robust results.
 
 ---
+<img width="766" height="790" alt="image" src="https://github.com/user-attachments/assets/1416ae56-abc1-46f7-8722-9d2337589242" />
+
